@@ -40,7 +40,7 @@ Desenvolver aplicações web eficientes, organizadas e com boa experiência para
 
 ## 📫 Contato
 
-* 📧 Email: lf86962@gmail.com
+* 📧 Email: lf492934@gmail.com
 
 ---
 
