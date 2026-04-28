@@ -40,7 +40,7 @@ To develop efficient, well-structured web applications with a great user experie
 
 ## 📫 Contact
 
-* 📧 Email: lf4923934@gmail.com  
+* 📧 Email: luisfrancisco2bdev@gmail.com  
 
 ---
 
@@ -90,7 +90,7 @@ Desenvolver aplicações web eficientes, organizadas e com boa experiência para
 
 ## 📫 Contato
 
-* 📧 Email: lf4923934@gmail.com
+* 📧 Email: luisfrancisco2bdev@gmail.com  
 
 ---
 
