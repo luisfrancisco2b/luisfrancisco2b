@@ -1,3 +1,53 @@
+# Hello! I'm Luis Francisco 👋
+
+🎓 Information Systems student  
+💻 Focused on Front-End development  
+🚀 Constantly improving through practical projects  
+
+---
+
+## 🧠 About Me
+
+I am an Information Systems student with an interest in web development, especially in the Front-End area.  
+I enjoy learning by building real projects, exploring best practices, and improving user experience.
+
+---
+
+## 🛠️ Technologies
+
+* **Front-End:** HTML, CSS, JavaScript  
+* **Back-End:** Python  
+* **Database:** SQLite  
+* **Tools:** Git, GitHub, VSCode  
+
+---
+
+## 📌 Featured Projects
+
+🔹 Newsletter with light/dark mode  
+🔹 Expense tracking system (in development)  
+🔹 Practical projects for Front-End learning  
+
+*(More projects focused on complete applications coming soon)*  
+
+---
+
+## 📈 Goal
+
+To develop efficient, well-structured web applications with a great user experience, aiming for opportunities in Front-End development.
+
+---
+
+## 📫 Contact
+
+* 📧 Email: lf4923934@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy technology, anime, and I’m always looking to learn something new every day.
+
 # Olá! Eu sou o Luis Francisco 👋
 
 🎓 Estudante de Sistemas de Informação
