@@ -1,100 +1,100 @@
 # Hello! I'm Luis Francisco 👋
 
-🎓 Information Systems student  
-💻 Focused on Front-End development  
-🚀 Constantly improving through practical projects  
+🎓 Information Systems Student  
+💻 Front-End Developer in Training  
+🚀 Learning by building practical, well-structured web applications  
 
 ---
 
 ## 🧠 About Me
 
-I am an Information Systems student with an interest in web development, especially in the Front-End area.  
-I enjoy learning by building real projects, exploring best practices, and improving user experience.
+I am an Information Systems student passionate about modern Front-End development. My focus is on creating clean, intuitive interfaces and practical web applications using **React**, **JavaScript**, and API integrations. I enjoy exploring best practices, UI/UX details, and workflow tools to continuously improve my code quality.
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Technologies & Tools
 
-* **Front-End:** HTML, CSS, JavaScript  
-* **Back-End:** Python  
-* **Database:** SQLite  
-* **Tools:** Git, GitHub, VSCode  
+* **Front-End:** React, HTML5, CSS3, JavaScript (ES6+), Vite, Tailwind CSS
+* **Back-End & DB:** Python, SQLite
+* **Tools & Workflow:** Git, GitHub, VS Code, Lucidchart, Overleaf
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 Newsletter with light/dark mode  
-🔹 Expense tracking system (in development)  
-🔹 Practical projects for Front-End learning  
-
-*(More projects focused on complete applications coming soon)*  
+* 🚀 **Currency Converter:** Responsive web app that fetches real-time exchange rates from an API to convert multiple currencies instantly with clean UI feedback.
+* 📱 **QR Code Generator:** Front-end application integrated with an external API to generate downloadable, custom QR codes dynamically for links and texts.
+* ⚖️ **BMI Calculator:** Interactive web application built with Vanilla JS that calculates Body Mass Index, provides dynamic health feedback, and features a responsive layout.
+* 💰 **Personal Finance System:** (In Development) Web application featuring user authentication, transaction management, and income/expense tracking.
 
 ---
 
 ## 📈 Goal
 
-To develop efficient, well-structured web applications with a great user experience, aiming for opportunities in Front-End development.
+To build efficient, accessible, and high-performance web applications while looking for entry-level / internship opportunities as a **Front-End Developer**.
 
 ---
 
 ## 📫 Contact
 
-* 📧 Email: luisfrancisco2bdev@gmail.com  
+* 📧 Email: luisfrancisco2bdev@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/luis-francisco-dev/
+* 🌐 Portfolio: https://github.com/luisfrancisco2b
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Curiosities
 
 I enjoy technology, anime, and I’m always looking to learn something new every day.
 
+---
+---
+
 # Olá! Eu sou o Luis Francisco 👋
 
-🎓 Estudante de Sistemas de Informação
-💻 Focado em desenvolvimento Front-End
-🚀 Buscando evoluir constantemente através de projetos práticos
+🎓 Estudante de Sistemas de Informação  
+💻 Desenvolvedor Front-End em evolução  
+🚀 Construindo aplicações web práticas e bem estruturadas  
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Sobre Mim
 
-Sou estudante de Sistemas de Informação com interesse em desenvolvimento web, especialmente na área de Front-End.
-Gosto de aprender construindo projetos reais, explorando boas práticas e melhorando a experiência do usuário.
-
----
-
-## 🛠️ Tecnologias
-
-* **Front-End:** HTML, CSS, JavaScript
-* **Back-End:** Python
-* **Banco de Dados:** SQLite
-* **Ferramentas:** Git, GitHub, VSCode
+Sou estudante de Sistemas de Informação focado em desenvolvimento Front-End moderno. Meu foco principal é criar interfaces limpas, intuitivas e funcionais utilizando **React**, **JavaScript** e integração com APIs. Gosto de aprender na prática, cuidando da arquitetura do código e da experiência do usuário.
 
 ---
 
-## 📌 Projetos em destaque
+## 🛠️ Tecnologias & Ferramentas
 
-🔹 Newsletter com tema claro/escuro
-🔹 Sistema de registro de gastos (em desenvolvimento)
-🔹 Projetos práticos para estudo de Front-End
+* **Front-End:** React, HTML5, CSS3, JavaScript (ES6+), Vite, Tailwind CSS
+* **Back-End & Banco de Dados:** Python, SQLite
+* **Ferramentas:** Git, GitHub, VS Code, Lucidchart, Overleaf
 
-*(Em breve mais projetos com foco em aplicações completas)*
+---
+
+## 📌 Projetos em Destaque
+
+* 🚀 **Conversor de Moedas:** Aplicação responsiva integrada a uma API em tempo real para conversão instantânea de moedas com feedback visual limpo.
+* 📱 **Gerador de QR Code:** Aplicação front-end integrada a uma API externa para gerar e baixar QR codes personalizados dinamicamente.
+* ⚖️ **Calculadora de IMC:** Aplicação interativa em JavaScript puro que calcula o Índice de Massa Corporal e retorna diagnósticos dinâmicos com design responsivo.
+* 💰 **Sistema de Controle Financeiro:** (Em Desenvolvimento) Aplicação web para gestão financeira pessoal com módulos de cadastro e controle de receitas/despesas.
 
 ---
 
 ## 📈 Objetivo
 
-Desenvolver aplicações web eficientes, organizadas e com boa experiência para o usuário, buscando oportunidades na área de desenvolvimento Front-End.
+Desenvolver aplicações web eficientes e organizadas, buscando oportunidades de estágio ou nível júnior em **Desenvolvimento Front-End**.
 
 ---
 
 ## 📫 Contato
 
-* 📧 Email: luisfrancisco2bdev@gmail.com  
+* 📧 Email: luisfrancisco2bdev@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/luis-francisco-dev/
+* 🌐 Portfólio: https://github.com/luisfrancisco2b
 
 ---
 
-## ⚡ Curiosidade
+## ⚡ Curiosidades
 
 Gosto de tecnologia, animes e sempre busco aprender algo novo todos os dias.
-
