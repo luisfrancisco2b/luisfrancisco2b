@@ -15,7 +15,7 @@ I enjoy learning by building real projects, exploring best practices, and improv
 
 ## 🛠️ Technologies
 
-* **Front-End:** HTML, CSS, JavaScript, React, Vite  
+* **Front-End:** HTML, CSS, JavaScript, React(under study), Vite(under study)  
 * **Back-End:** Python  
 * **Database:** SQLite  
 * **Tools:** Git, GitHub, VSCode  
@@ -71,7 +71,7 @@ Gosto de aprender construindo projetos reais, explorando boas práticas e melhor
 
 ## 🛠️ Tecnologias
 
-* **Front-End:** HTML, CSS, JavaScript, React, Vite
+* **Front-End:** HTML, CSS, JavaScript, React(em estudo), Vite(em estudo)
 * **Back-End:** Python
 * **Banco de Dados:** SQLite
 * **Ferramentas:** Git, GitHub, VSCode
